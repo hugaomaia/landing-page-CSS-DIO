@@ -1,3 +1,4 @@
-##Desafio de Código - Plataforma DIO##
-Formação CSS Web Developer
-Criando landing page com HTML e CSS
+## Criando landing page com HTML e CSS ##
+Desafio de código da plataforma DIO
+
+Curso CSS Web Developer
